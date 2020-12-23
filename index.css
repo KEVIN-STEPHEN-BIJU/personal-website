@@ -1,0 +1,10 @@
+#atag{
+    text-decoration: none;
+}
+#text{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#roundMe{
+    border-radius: 50px;
+}
